@@ -1,0 +1,14 @@
+D:\visual studio projects\gradesAnalysis\gradesAnalysis\bin\Debug\gradesAnalysis.exe.config
+D:\visual studio projects\gradesAnalysis\gradesAnalysis\bin\Debug\gradesAnalysis.exe
+D:\visual studio projects\gradesAnalysis\gradesAnalysis\bin\Debug\gradesAnalysis.pdb
+D:\visual studio projects\gradesAnalysis\gradesAnalysis\obj\Debug\gradesAnalysis.csprojAssemblyReference.cache
+D:\visual studio projects\gradesAnalysis\gradesAnalysis\obj\Debug\MainWindow.g.cs
+D:\visual studio projects\gradesAnalysis\gradesAnalysis\obj\Debug\App.g.cs
+D:\visual studio projects\gradesAnalysis\gradesAnalysis\obj\Debug\gradesAnalysis_MarkupCompile.cache
+D:\visual studio projects\gradesAnalysis\gradesAnalysis\obj\Debug\gradesAnalysis_MarkupCompile.lref
+D:\visual studio projects\gradesAnalysis\gradesAnalysis\obj\Debug\MainWindow.baml
+D:\visual studio projects\gradesAnalysis\gradesAnalysis\obj\Debug\gradesAnalysis.g.resources
+D:\visual studio projects\gradesAnalysis\gradesAnalysis\obj\Debug\gradesAnalysis.Properties.Resources.resources
+D:\visual studio projects\gradesAnalysis\gradesAnalysis\obj\Debug\gradesAnalysis.csproj.GenerateResource.cache
+D:\visual studio projects\gradesAnalysis\gradesAnalysis\obj\Debug\gradesAnalysis.exe
+D:\visual studio projects\gradesAnalysis\gradesAnalysis\obj\Debug\gradesAnalysis.pdb

@@ -1,0 +1,12 @@
+D:\visual studio projects\gradesAnalysis\DAL\obj\Debug\netstandard2.0\DAL.csprojAssemblyReference.cache
+D:\visual studio projects\gradesAnalysis\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfoInputs.cache
+D:\visual studio projects\gradesAnalysis\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfo.cs
+D:\visual studio projects\gradesAnalysis\DAL\bin\Debug\netstandard2.0\DAL.deps.json
+D:\visual studio projects\gradesAnalysis\DAL\bin\Debug\netstandard2.0\DAL.dll
+D:\visual studio projects\gradesAnalysis\DAL\bin\Debug\netstandard2.0\DAL.pdb
+D:\visual studio projects\gradesAnalysis\DAL\bin\Debug\netstandard2.0\BE.dll
+D:\visual studio projects\gradesAnalysis\DAL\bin\Debug\netstandard2.0\BE.pdb
+D:\visual studio projects\gradesAnalysis\DAL\obj\Debug\netstandard2.0\DAL.csproj.CopyComplete
+D:\visual studio projects\gradesAnalysis\DAL\obj\Debug\netstandard2.0\DAL.dll
+D:\visual studio projects\gradesAnalysis\DAL\obj\Debug\netstandard2.0\DAL.pdb
+D:\visual studio projects\gradesAnalysis\DAL\obj\Debug\netstandard2.0\DAL.csproj.CoreCompileInputs.cache

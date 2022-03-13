@@ -1,0 +1,6 @@
+D:\visual studio projects\gradesAnalysis\BE\bin\Debug\BE.dll
+D:\visual studio projects\gradesAnalysis\BE\bin\Debug\BE.pdb
+D:\visual studio projects\gradesAnalysis\BE\obj\Debug\BE.dll
+D:\visual studio projects\gradesAnalysis\BE\obj\Debug\BE.pdb
+D:\visual studio projects\gradesAnalysis\BE\obj\Debug\BE.csprojAssemblyReference.cache
+D:\visual studio projects\gradesAnalysis\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
