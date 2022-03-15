@@ -32,8 +32,7 @@ namespace PL
                     "7: get standard deviation\n" +
                     "8: get courses points\n" +
                     "else: exit\n" +
-                    "fields are: Name, Grade, Points, Year, Semester, Dep\n" +
-                    "*for course dep, write (for example) c.Dep == BE.department.computers");
+                    "fields are: Name, Grade, Points, Year, Semester, Dep\n");
 
                 string choice = Console.ReadLine();
 
@@ -92,8 +91,8 @@ namespace PL
             course.Grade = int.Parse(Console.ReadLine());
             Console.Write("enter course points: ");
             course.Points = double.Parse(Console.ReadLine());
-            Console.Write("enter course depatrment (computers/math): ");
-            course.Dep = (Console.ReadLine() == "computers" ? department.computers : department.math);
+            Console.Write("enter course depatrment: ");
+            course.Dep = Console.ReadLine();
             Console.Write("enter course year: ");
             course.Year = int.Parse(Console.ReadLine());
             Console.Write("enter course semester: ");
@@ -160,7 +159,7 @@ namespace PL
                         course.Points = double.Parse(Console.ReadLine());
                         break;
                     case "department":
-                        course.Dep = (Console.ReadLine() == "computers" ? department.computers : department.math);
+                        course.Dep = Console.ReadLine();
                         break;
                     case "year":
                         course.Year = int.Parse(Console.ReadLine());

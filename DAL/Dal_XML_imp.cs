@@ -11,7 +11,8 @@ namespace DAL
     class Dal_XML_imp : Idal
     {
         XElement courseRoot = new XElement("courses");
-        const string coursePath = @"D:\visual studio projects\gradesAnalysisXML\CourseXml.xml";
+        const string courseDir = @"C:\ProgramData\gradesAnalysis";
+        const string coursePath = @"C:\ProgramData\gradesAnalysis\CourseXml.xml";
 
         public Dal_XML_imp()
         {
@@ -75,7 +76,7 @@ namespace DAL
                               Name = course.Element("Name").Value,
                               Grade = int.Parse(course.Element("Grade").Value),
                               Points = double.Parse(course.Element("Points").Value),
-                              Dep = (department)Enum.Parse(typeof(department), course.Element("Dep").Value),
+                              Dep = course.Element("Dep").Value,
                               Year = int.Parse(course.Element("Year").Value),
                               Semester = int.Parse(course.Element("Semester").Value)
                           }).ToList();//converting the iEnumrble list to a course list
@@ -140,6 +141,9 @@ namespace DAL
         /// </summary>
         private void CreateCourseFile()
         {
+            if (!Directory.Exists(courseDir))
+                Directory.CreateDirectory(courseDir);
+
             courseRoot.Save(coursePath);
         }
 
